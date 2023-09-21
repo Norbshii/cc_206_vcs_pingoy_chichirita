@@ -1,3 +1,5 @@
+// Pingoy, Norberto S.: Anything worth doing is worth doing right.
+// Chichirita, Von Ashley: Nothing is impossible, but I do nothing everyday.
 import 'package:flutter/material.dart';
 
 void main() {
