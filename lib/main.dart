@@ -1,3 +1,6 @@
+// Von Ashley Chichirita: People say nothing is impossible, but I do nothing everyday.
+// Norberto Pingoy: Anything worth doing is worth doing right.
+
 import 'package:flutter/material.dart';
 
 void main() {
